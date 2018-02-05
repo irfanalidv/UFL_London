@@ -25,6 +25,7 @@ Is there a correlation here with number of games they have played or their coin 
 ![freq_of_purch](https://user-images.githubusercontent.com/5808185/35794316-46e1aaf4-0a7b-11e8-88e4-08f012fd53a0.PNG)
 
 Weekly purchase frequency
+
 ![fre_weekly](https://user-images.githubusercontent.com/5808185/35795776-424b7d4e-0a80-11e8-9346-e1922c5f2076.PNG)
 
 Are there any patterns here?
