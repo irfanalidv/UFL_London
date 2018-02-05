@@ -39,6 +39,12 @@ Are there any patterns here?
 
 ![overtime_transaction](https://user-images.githubusercontent.com/5808185/35801927-2711b5e8-0a94-11e8-9d26-363e61920b46.PNG)
 
+**Monthly_transaction Pattern **
+
+![monthly_transaction](https://user-images.githubusercontent.com/5808185/35805002-137790b4-0aa0-11e8-95fb-e10a3e15fae9.png)
+
+![monthly_transaction1](https://user-images.githubusercontent.com/5808185/35805003-13c3824e-0aa0-11e8-86c6-168c9e860123.png)
+
 **Time_Series**
 
 ![time_series](https://user-images.githubusercontent.com/5808185/35804701-d71d044c-0a9e-11e8-99f2-199b4f28c718.PNG)
