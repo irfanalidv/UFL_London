@@ -8,6 +8,10 @@ Customer Intelligent from scratch
 
 ![days_of_first_trans](https://user-images.githubusercontent.com/5808185/35792774-c0e56dec-0a74-11e8-9861-282d4c0c9e74.PNG)
 
+**centers_days_around_values**
+
+![first_day_center](https://user-images.githubusercontent.com/5808185/35806640-367e412e-0aa6-11e8-918b-947d42a30d46.PNG)
+
 - Which bundle do they usually first purchase? 
 
 #transaction_iap_First_Purchase =28465 customers vs #transaction_iap_overall_purchase = 61852 customers 
@@ -61,7 +65,15 @@ Are there any patterns here?
 
 - At what point do spenders stop paying?
 
+![last_day](https://user-images.githubusercontent.com/5808185/35807154-eec98b5c-0aa7-11e8-8812-92f733392e18.PNG)
+
+**Center_days_value_around_which_days_varies**
+
+![last_day_cet](https://user-images.githubusercontent.com/5808185/35807225-2457ad76-0aa8-11e8-99f3-a9f797aa7c47.PNG)
+
+
 - Is there a pattern that drives those users who purchase the more expensive coin bundles?
+
 
 **Possible driven transaction combination for First transaction**
 
