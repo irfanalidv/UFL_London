@@ -8,6 +8,11 @@ Customer Intelligent from scratch
 
 ![days_of_first_trans](https://user-images.githubusercontent.com/5808185/35792774-c0e56dec-0a74-11e8-9861-282d4c0c9e74.PNG)
 
+**Overall_values_of_attributes_at_first_transaction**
+
+![overall](https://user-images.githubusercontent.com/5808185/35808093-c549a354-0aaa-11e8-8338-94a3170b1430.PNG)
+
+
 **centers_days_around_values**
 
 ![first_day_center](https://user-images.githubusercontent.com/5808185/35806640-367e412e-0aa6-11e8-918b-947d42a30d46.PNG)
@@ -57,6 +62,10 @@ Are there any patterns here?
 **Overall_Buy_till_you_Die**
 
 ![over_all_cus](https://user-images.githubusercontent.com/5808185/35805428-d5716612-0aa1-11e8-9422-62971e633b3e.PNG)
+
+**Summary**
+
+![overall1](https://user-images.githubusercontent.com/5808185/35808309-6766536c-0aab-11e8-8e42-7442fd25a3c8.PNG)
 
 **Time_Series**
 
