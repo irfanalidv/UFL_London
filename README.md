@@ -47,6 +47,9 @@ Are there any patterns here?
 
 **Understanding pattern of transaction**
 
+![first_transa](https://user-images.githubusercontent.com/5808185/35811851-8dca171e-0ab5-11e8-9c9e-ca0cfcb0acd3.PNG)
+
+
 ![first_trans_both](https://user-images.githubusercontent.com/5808185/35803664-a420d91e-0a9a-11e8-9fd5-7d5b1687a19c.PNG)
 
 ![overtime_transaction](https://user-images.githubusercontent.com/5808185/35801927-2711b5e8-0a94-11e8-9d26-363e61920b46.PNG)
