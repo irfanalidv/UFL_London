@@ -12,16 +12,22 @@ Customer Intelligent from scratch
 
 #transaction_iap_First_Purchase =28465 customers vs #transaction_iap_overall_purchase = 61852 customers 
 
-Transcation = 46.02115 % | revenue = 
+Transcation = 46.02115 % | revenue = 45.51897 % 
 
 #transaction_diamond_First_purchase =125 customers vs #transaction_diamond_overall_purchase = 930 customers
 
-13.4408602%
+Transcation = 13.4408602% | revenue = 13.44086 % 
 
 Is there a correlation here with number of games they have played or their coin balance at   time of purchase?
 
 
-- What is the frequency of spenders in how often they make a purchase? Are there any patterns here?
+- What is the frequency of spenders in how often they make a purchase? 
+![freq_of_purch](https://user-images.githubusercontent.com/5808185/35794316-46e1aaf4-0a7b-11e8-88e4-08f012fd53a0.PNG)
+
+Weekly purchase frequency
+![fre_weekly](https://user-images.githubusercontent.com/5808185/35795776-424b7d4e-0a80-11e8-9346-e1922c5f2076.PNG)
+
+Are there any patterns here?
 
 - At what point do spenders stop paying?
 
