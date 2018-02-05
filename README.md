@@ -81,6 +81,10 @@ Are there any patterns here?
 
 - At what point do spenders stop paying?
 
+**Last_Days_association**
+
+![days_last](https://user-images.githubusercontent.com/5808185/35810147-bcf6f160-0ab0-11e8-8067-9bdd741237fb.PNG)
+
 ![last_day](https://user-images.githubusercontent.com/5808185/35807154-eec98b5c-0aa7-11e8-8812-92f733392e18.PNG)
 
 **Center_days_value_around_which_days_varies**
