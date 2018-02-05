@@ -42,6 +42,7 @@ Are there any patterns here?
 - Is there a pattern that drives those users who purchase the more expensive coin bundles?
 
 **Possible driven transaction combination for First transaction**
+
 ![purchase_combo](https://user-images.githubusercontent.com/5808185/35803293-44f6e9e8-0a99-11e8-9942-fc63ae032aaf.PNG)
 
 ![combination](https://user-images.githubusercontent.com/5808185/35803410-c204f07e-0a99-11e8-8db7-eb7e9b0d0dab.png)
