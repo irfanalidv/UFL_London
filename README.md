@@ -55,4 +55,5 @@ Are there any patterns here?
 ![cluster_first_trans](https://user-images.githubusercontent.com/5808185/35801524-b5dd71f6-0a92-11e8-8a3f-0405e04f8fc0.png)
 
 **Predictive model for purchase classification**
+
 ![predictive_model](https://user-images.githubusercontent.com/5808185/35802761-5afb1f40-0a97-11e8-8ab4-6f3a299f4ea1.PNG)
