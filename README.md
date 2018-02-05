@@ -14,19 +14,18 @@ Customer Intelligent from scratch
 
 - Which bundle do they usually first purchase? 
 
-#transaction_iap_First_Purchase =28465 customers vs #transaction_iap_overall_purchase = 61852 customers 
+**#transaction_iap_First_Purchase =28465 customers vs #transaction_iap_overall_purchase = 61852 customers**
 
-Transcation = 46.02115 % | revenue = 45.51897 % 
+**Transcation = 46.02115 % | revenue = 45.51897 %** 
 
 **No_games_played_before_iap_purchase**
 
 ![no_game_iap_1st_pur](https://user-images.githubusercontent.com/5808185/35796671-4c5084bc-0a83-11e8-9b6d-d60ce87f7431.PNG)
 
-#transaction_diamond_First_purchase =125 customers vs #transaction_diamond_overall_purchase = 930 customers
-
-Transcation = 13.4408602% | revenue = 13.44086 % 
 
 Is there a correlation here with number of games they have played or their coin balance at   time of purchase?
+
+![cor_plot](https://user-images.githubusercontent.com/5808185/35807923-34fc04c2-0aaa-11e8-8285-82a04a1376eb.png)
 
 - What is the frequency of spenders in how often they make a purchase? 
 ![freq_of_purch](https://user-images.githubusercontent.com/5808185/35794316-46e1aaf4-0a7b-11e8-88e4-08f012fd53a0.PNG)
