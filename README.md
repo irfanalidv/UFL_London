@@ -32,7 +32,12 @@ Is there a correlation here with number of games they have played or their coin 
 
 ![cor_plot](https://user-images.githubusercontent.com/5808185/35807923-34fc04c2-0aaa-11e8-8285-82a04a1376eb.png)
 
-- What is the frequency of spenders in how often they make a purchase? 
+- What is the frequency of spenders in how often they make a purchase?
+
+**Cus_days_of_association_VS_Total_Transaction**
+
+![cus_days_of_association_vs_total_transaction](https://user-images.githubusercontent.com/5808185/35808763-dc03b9de-0aac-11e8-9127-0a9dc7914644.png)
+
 ![freq_of_purch](https://user-images.githubusercontent.com/5808185/35794316-46e1aaf4-0a7b-11e8-88e4-08f012fd53a0.PNG)
 
 **Weekly purchase frequency**
