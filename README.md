@@ -45,6 +45,12 @@ Are there any patterns here?
 
 ![monthly_transaction1](https://user-images.githubusercontent.com/5808185/35805003-13c3824e-0aa0-11e8-86c6-168c9e860123.png)
 
+**Monthly revenue Pattern**
+
+![revnue](https://user-images.githubusercontent.com/5808185/35805092-8526f13c-0aa0-11e8-8d5f-1860d0896ac2.png)
+
+![revnue1](https://user-images.githubusercontent.com/5808185/35805140-b925a596-0aa0-11e8-8457-ee7f695a6f6c.png)
+
 **Time_Series**
 
 ![time_series](https://user-images.githubusercontent.com/5808185/35804701-d71d044c-0a9e-11e8-99f2-199b4f28c718.PNG)
