@@ -51,6 +51,10 @@ Are there any patterns here?
 
 ![revnue1](https://user-images.githubusercontent.com/5808185/35805140-b925a596-0aa0-11e8-8457-ee7f695a6f6c.png)
 
+**Overall_Buy_till_you_Die**
+
+![over_all_cus](https://user-images.githubusercontent.com/5808185/35805428-d5716612-0aa1-11e8-9422-62971e633b3e.PNG)
+
 **Time_Series**
 
 ![time_series](https://user-images.githubusercontent.com/5808185/35804701-d71d044c-0a9e-11e8-99f2-199b4f28c718.PNG)
