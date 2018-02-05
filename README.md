@@ -74,6 +74,15 @@ Are there any patterns here?
 
 - Is there a pattern that drives those users who purchase the more expensive coin bundles?
 
+**Driven_factor_of_high_cash_equ**
+
+![cash_equiavalent](https://user-images.githubusercontent.com/5808185/35807318-64ce0224-0aa8-11e8-8288-4d077857c3be.png)
+
+**First_transaction_Coin_games_balance**
+
+![first_transaction_scatter_plot_size coins](https://user-images.githubusercontent.com/5808185/35807675-732db1a6-0aa9-11e8-8dbd-35fd068d3c7a.png)
+
+
 
 **Possible driven transaction combination for First transaction**
 
