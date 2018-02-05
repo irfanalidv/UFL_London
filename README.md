@@ -2,7 +2,11 @@
 Customer Intelligent from scratch
 
 - What is the day since registering that a user typically purchases a first bundle?
-![days_diff](https://user-images.githubusercontent.com/5808185/35779290-9b3e13ac-09f0-11e8-93b6-2c736a7d4b35.PNG)
+
+![days_diff1](https://user-images.githubusercontent.com/5808185/35792832-0c91757e-0a75-11e8-8226-01e4f28fc0d5.PNG)
+
+
+![days_of_first_trans](https://user-images.githubusercontent.com/5808185/35792774-c0e56dec-0a74-11e8-9861-282d4c0c9e74.PNG)
 
 - Which bundle do they usually first purchase? Is there a correlation here with number of games they have played or their coin balance at   time of purchase?
 
