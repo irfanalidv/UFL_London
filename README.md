@@ -33,6 +33,10 @@ Is there a correlation here with number of games they have played or their coin 
 
 Are there any patterns here?
 
+**Understanding pattern of transaction**
+
+![overtime_transaction](https://user-images.githubusercontent.com/5808185/35801927-2711b5e8-0a94-11e8-9d26-363e61920b46.PNG)
+
 - At what point do spenders stop paying?
 
 - Is there a pattern that drives those users who purchase the more expensive coin bundles?
@@ -49,3 +53,6 @@ Are there any patterns here?
 7              9.191331                44.03603
 
 ![cluster_first_trans](https://user-images.githubusercontent.com/5808185/35801524-b5dd71f6-0a92-11e8-8a3f-0405e04f8fc0.png)
+
+**Predictive model for purchase classification**
+![predictive_model](https://user-images.githubusercontent.com/5808185/35802761-5afb1f40-0a97-11e8-8ab4-6f3a299f4ea1.PNG)
