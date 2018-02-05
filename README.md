@@ -35,7 +35,13 @@ Are there any patterns here?
 
 **Understanding pattern of transaction**
 
+![first_trans_both](https://user-images.githubusercontent.com/5808185/35803664-a420d91e-0a9a-11e8-9fd5-7d5b1687a19c.PNG)
+
 ![overtime_transaction](https://user-images.githubusercontent.com/5808185/35801927-2711b5e8-0a94-11e8-9d26-363e61920b46.PNG)
+
+**Time_Series**
+
+![time_series](https://user-images.githubusercontent.com/5808185/35804701-d71d044c-0a9e-11e8-99f2-199b4f28c718.PNG)
 
 - At what point do spenders stop paying?
 
