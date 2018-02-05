@@ -102,6 +102,13 @@ Are there any patterns here?
 
 ![first_transaction_scatter_plot_size coins](https://user-images.githubusercontent.com/5808185/35807675-732db1a6-0aa9-11e8-8dbd-35fd068d3c7a.png)
 
+**Time_taken_for_2nd_transaction**
+
+![2nd_tran](https://user-images.githubusercontent.com/5808185/35811025-812b8238-0ab3-11e8-974d-80bd5717df2e.PNG)
+
+![center_2nd_trans](https://user-images.githubusercontent.com/5808185/35811026-81839892-0ab3-11e8-9a53-3577b546983e.PNG)
+
+![days_2nd_trans](https://user-images.githubusercontent.com/5808185/35811024-80e01168-0ab3-11e8-87c7-2a0ed12df864.PNG)
 
 
 **Possible driven transaction combination for First transaction**
