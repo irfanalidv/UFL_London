@@ -20,7 +20,7 @@ Customer Intelligent from scratch
 **Transcation = 46.02115 % | revenue = 45.51897 %** 
 
  **#transaction_diamond_First_purchase =125 customers vs #transaction_diamond_overall_purchase = 930 customers**
- **Transcation = 13.4408602% | revenue = 13.44086 % **
+ **Transcation = 13.4408602% | revenue = 13.44086 %**
  
 **No_games_played_before_iap_purchase**
 
