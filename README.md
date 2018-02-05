@@ -56,4 +56,5 @@ Are there any patterns here?
 
 **Predictive model for purchase classification**
 
-![predictive_model](https://user-images.githubusercontent.com/5808185/35802761-5afb1f40-0a97-11e8-8ab4-6f3a299f4ea1.PNG)
+![predictive_model_1](https://user-images.githubusercontent.com/5808185/35803101-95e88b64-0a98-11e8-8953-57361fe8030e.PNG)
+
