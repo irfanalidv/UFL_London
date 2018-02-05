@@ -8,10 +8,6 @@ Customer Intelligent from scratch
 
 ![days_of_first_trans](https://user-images.githubusercontent.com/5808185/35792774-c0e56dec-0a74-11e8-9861-282d4c0c9e74.PNG)
 
-**Overall_values_of_attributes_at_first_transaction**
-
-![overall](https://user-images.githubusercontent.com/5808185/35808093-c549a354-0aaa-11e8-8338-94a3170b1430.PNG)
-
 
 **centers_days_around_values**
 
