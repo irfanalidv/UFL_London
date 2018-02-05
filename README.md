@@ -36,3 +36,16 @@ Are there any patterns here?
 - At what point do spenders stop paying?
 
 - Is there a pattern that drives those users who purchase the more expensive coin bundles?
+
+**Possible driven transaction combination for First transaction**
+
+  games_before_purchase balance_before_purchase
+1             25.283901               722.66533
+2            374.555556             30764.00000
+3            187.269231             17173.76923
+4             13.477446               229.31500
+5            127.232558              3506.30233
+6             89.119403              9708.64179
+7              9.191331                44.03603
+
+![cluster_first_trans](https://user-images.githubusercontent.com/5808185/35801524-b5dd71f6-0a92-11e8-8a3f-0405e04f8fc0.png)
