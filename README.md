@@ -14,7 +14,7 @@ Customer Intelligent from scratch
 
 Transcation = 46.02115 % | revenue = 45.51897 % 
 
-No_games_played_before_iap_purchase
+**No_games_played_before_iap_purchase**
 
 ![no_game_iap_1st_pur](https://user-images.githubusercontent.com/5808185/35796671-4c5084bc-0a83-11e8-9b6d-d60ce87f7431.PNG)
 
@@ -24,11 +24,10 @@ Transcation = 13.4408602% | revenue = 13.44086 %
 
 Is there a correlation here with number of games they have played or their coin balance at   time of purchase?
 
-
 - What is the frequency of spenders in how often they make a purchase? 
 ![freq_of_purch](https://user-images.githubusercontent.com/5808185/35794316-46e1aaf4-0a7b-11e8-88e4-08f012fd53a0.PNG)
 
-Weekly purchase frequency
+**Weekly purchase frequency**
 
 ![fre_weekly](https://user-images.githubusercontent.com/5808185/35795776-424b7d4e-0a80-11e8-9346-e1922c5f2076.PNG)
 
