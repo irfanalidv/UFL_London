@@ -50,3 +50,5 @@ https://github.com/irfanalidv/UFL_London/blob/master/First_trans_Diamond_purchse
 
 ![dtree](https://user-images.githubusercontent.com/5808185/36061199-fc88f984-0e7c-11e8-9638-328c4f26b343.png)
 
+[NOTE: The main purpose of the model was to do it real-time classification like for users who have not any transaction what they do likely to do as their first transaction. We can feed the current users attributes on which the model is trained such as games_before_purchase(current game played) | balance_before_purchase (Current_balance) and then predict in which class like IAP or Diamond Club would be the first purchase. ]
+
