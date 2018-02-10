@@ -40,8 +40,9 @@ Customer Purchase Classification from scratch
 
 #Hence this is the desire point in time when a we should push user a Diamond Club offer
 
-![diamond_value](https://user-images.githubusercontent.com/5808185/36061063-9518c7a4-0e7a-11e8-94d5-8110f6e2443b.PNG)
+![value_for_diamon](https://user-images.githubusercontent.com/5808185/36061818-31e4d536-0e86-11e8-9959-e097c04a5273.PNG)
 
+##NOTE we should merge other cluster values which are aligned to the similar behavior of purchasing the diamond club
 
 **We have Decision Tree based Algorith for the above prediction**
 
