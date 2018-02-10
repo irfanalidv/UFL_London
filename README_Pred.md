@@ -52,3 +52,11 @@ Customer Purchase Classification from scratch
 
 [NOTE: The main purpose of the model was to do it real-time classification like for users who have not done any transaction what they would likely to do as their first transaction. We can feed the current users attributes on which the model is trained such as games_before_purchase(current game played) | balance_before_purchase (Current_balance) and then predict in which class like IAP or Diamond Club would be the first purchase and hence push them the offer accordingly. ]
 
+####Like this###
+
+![api](https://user-images.githubusercontent.com/5808185/36063385-2bd02b0c-0ea2-11e8-95f1-1f2a95d75250.png)
+
+![api_ex](https://user-images.githubusercontent.com/5808185/36063386-2c15b672-0ea2-11e8-8839-40addce87539.png)
+
+![api_val](https://user-images.githubusercontent.com/5808185/36063384-2b8abfe0-0ea2-11e8-87e4-ddb5a8683f23.png)
+
