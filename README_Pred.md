@@ -22,8 +22,7 @@ Customer Purchase Classification from scratch
 
 ![centre](https://user-images.githubusercontent.com/5808185/36060306-e048601c-0e6c-11e8-95f8-48b6ceeedc5b.PNG)
 
- **Then we check for which cluster the purchase type is diamond | **
-**we see that Cluster 6 has the Prediction of Diamond Club purchase**
+ **Then we check for which cluster the purchase type is diamond | we see that Cluster 6 has the Prediction of Diamond Club purchase**
 
 ![cluster6](https://user-images.githubusercontent.com/5808185/36060318-32c67496-0e6d-11e8-96b7-1ce006c20a36.PNG)
 
@@ -36,7 +35,7 @@ Customer Purchase Classification from scratch
 ![desire_value_diamong](https://user-images.githubusercontent.com/5808185/36060340-ac02c6e8-0e6d-11e8-8a57-0b5315974d24.PNG)
 
 
-#Hence this is the desire value for Diamond Club
+#Hence this is the desire point in time when a user should push a Diamond Club offer
 
 ![diamond_value](https://user-images.githubusercontent.com/5808185/36061063-9518c7a4-0e7a-11e8-94d5-8110f6e2443b.PNG)
 
