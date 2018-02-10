@@ -40,3 +40,7 @@ Customer Purchase Classification from scratch
 
 ![diamond_value](https://user-images.githubusercontent.com/5808185/36061063-9518c7a4-0e7a-11e8-94d5-8110f6e2443b.PNG)
 
+**We have Decision Tree based Algorith for the above prediction**
+
+![dtree](https://user-images.githubusercontent.com/5808185/36061199-fc88f984-0e7c-11e8-9638-328c4f26b343.png)
+
