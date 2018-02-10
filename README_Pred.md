@@ -44,7 +44,7 @@ Customer Purchase Classification from scratch
 
 ##NOTE we should merge other cluster values which are aligned to the similar behavior of purchasing the diamond club
 
-https://github.com/irfanalidv/UFL_London/blob/master/First_trans_Diamond_purchse.csv
+**Dataset:** https://github.com/irfanalidv/UFL_London/blob/master/First_trans_Diamond_purchse.csv
 
 **We have Decision Tree based Algorith for the above prediction**
 
