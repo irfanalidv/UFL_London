@@ -35,6 +35,8 @@ Customer Purchase Classification from scratch
 
 ![desire_value_diamong](https://user-images.githubusercontent.com/5808185/36060340-ac02c6e8-0e6d-11e8-8a57-0b5315974d24.PNG)
 
-#Hence this is the desire value for Diamon purchase
+
+#Hence this is the desire value for Diamond Club
+
 ![diamond_value](https://user-images.githubusercontent.com/5808185/36061063-9518c7a4-0e7a-11e8-94d5-8110f6e2443b.PNG)
 
