@@ -85,7 +85,7 @@ Are there any patterns here?
 ![over_all_cus](https://user-images.githubusercontent.com/5808185/35805428-d5716612-0aa1-11e8-9422-62971e633b3e.PNG)
 
 **Time_Series**
-[NOTE: this was more of like my experiment to understand if users are buying high bundles after the time interval do they prefer to buy higher value of bundles In a few month we don't get higher purchase bundle as the month starts after a week there is a hike in the purchase and continue till quarter of month most filled till mid to most ]
+[NOTE: this was more of like my experiment to understand if users are buying high bundles after the time interval do they prefer to buy higher value of bundles In a few months we don't get higher purchase bundle as the month starts after a week there is a hike in the purchase and continue till quarter of month most filled till mid to most ]
 
 ![time_series](https://user-images.githubusercontent.com/5808185/35804701-d71d044c-0a9e-11e8-99f2-199b4f28c718.PNG)
 
@@ -118,7 +118,7 @@ Are there any patterns here?
 
 
 **Possible driven transaction combination for First transaction**
-[NOTE: This can help us to understand the riving factor or combination of transactions people would do as e cluster all the transactions with most influenced number in the overall transaction as we get these values which is help us understand when people would do trsanction]
+[NOTE: This can help us to understand the driving factor or combination of transactions people would do as e cluster all the transactions with the most influenced number in the overall transaction as we get these values which is help us understand when people would do trsanction]
 
 ![purchase_combo](https://user-images.githubusercontent.com/5808185/35803293-44f6e9e8-0a99-11e8-9942-fc63ae032aaf.PNG)
 
